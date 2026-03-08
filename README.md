@@ -1,7 +1,5 @@
 # credit-wise-loan-system
 
-# Credit Wise Loan System
-
 ##  Overview
 Credit Wise Loan System is a simple loan eligibility checker built as a minor project.  
 It takes user input (such as income, credit score, and other financial details) and determines whether the user is eligible for a loan or not.  
